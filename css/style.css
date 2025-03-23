@@ -24,3 +24,13 @@ h2 {
     margin: 0 auto;
     /*margin 0 auto centers it*/
 }
+
+#main-bio,
+#contact-info,
+#bio-image {
+    float: left;
+}
+
+#bio-image {
+    width: 200px;
+}
