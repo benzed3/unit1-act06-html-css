@@ -21,3 +21,19 @@ h1 {
 h2 {
     font-size: 24px;
 }
+
+.container {
+    width: 1024px;
+    /*the following centers a div*/
+    margin: 0 auto;
+}
+
+#main-bio,
+#contact-info,
+#bio-image {
+    float: left;
+}
+
+#bio-image {
+    width: 200px;
+}
